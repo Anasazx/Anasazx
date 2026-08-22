@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-**`building things that should exist.`**
+**`building some cool shit.`**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anasazx&color=blueviolet&style=flat-square&label=VISITORS)
 ![GitHub followers](https://img.shields.io/github/followers/Anasazx?style=flat-square&color=blueviolet)
@@ -51,19 +51,6 @@ Docker      ████████████░░░░░░░░    60%
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anasazx&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anasazx&theme=radical&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anasazx&layout=compact&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
