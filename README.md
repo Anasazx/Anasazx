@@ -1,16 +1,45 @@
-## Hi there 👋
+Anasazx
 
-<!--
-**Anasazx/Anasazx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+█████╗ ███╗   ██╗ █████╗ ███████╗ █████╗ ███████╗██╗  ██╗
+██╔══██╗████╗  ██║██╔══██╗██╔════╝██╔══██╗╚══███╔╝╚██╗██╔╝
+███████║██╔██╗ ██║███████║███████╗███████║  ███╔╝  ╚███╔╝
+██╔══██║██║╚██╗██║██╔══██║╚════██║██╔══██║ ███╔╝   ██╔██╗
+██║  ██║██║ ╚████║██║  ██║███████║██║  ██║███████╗██╔╝ ██╗
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
-Here are some ideas to get you started:
+> building things that should exist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+┌──────────────────────────────────────────────┐
+│                                              │
+│                cyka blyat                    │
+│                                              │
+└──────────────────────────────────────────────┘
+
+Currently
+
+Java        ████████████████████
+Spring      ████████████████░░░░
+Angular     ███████████████░░░░░
+Linux       ██████████████░░░░░░
+Docker      ████████████░░░░░░░░
+
+Stack
+
+Java · Spring Boot · Angular · PostgreSQL · Docker · Linux · Git
+
+⸻
+
+Anasazx@github
+──────────────
+$ whoami
+> developer
+$ current_status
+> building
+$ next
+> some shit
+
+⸻
+
+[ GitHub ] · [ Projects ] · [ Contact ]
