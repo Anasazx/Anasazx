@@ -73,6 +73,6 @@ $ next
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anasazx)
 [![Projects](https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Anasazx?tab=repositories)
-[![Contact](https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=maildotru&logoColor=white)](#)
+[![Contact](https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=maildotru&logoColor=white)](https://x.com/RiadhAnas)
 
 </div>
