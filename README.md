@@ -57,16 +57,20 @@ Docker      ████████████░░░░░░░░    60%
 ---
 
 ```bash
-Anasazx@github
-──────────────
-$ whoami
-> developer
+┌─[Anasazx@github]─[~]
+└──╼ $ whoami
+    a random guy who still requires adult supervision
 
-$ current_status
-> building
+┌─[Anasazx@github]─[~]
+└──╼ $ cat .env
+    <!-- API_KEY=trust_me_bro -->
 
-$ next
-> some shit
+┌─[Anasazx@github]─[~]
+└──╼ $ git commit -m "fix"
+    > fixes nothing, adds 3 new bugs
+
+┌─[Anasazx@github]─[~]
+└──╼ $ _
 ```
 
 <div align="center">
