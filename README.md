@@ -9,7 +9,6 @@
 ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-**`building some cool shit.`**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anasazx&color=blueviolet&style=flat-square&label=VISITORS)
 ![GitHub followers](https://img.shields.io/github/followers/Anasazx?style=flat-square&color=blueviolet)
