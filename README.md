@@ -8,11 +8,6 @@
 ██║  ██║██║ ╚████║██║  ██║███████║██║  ██║███████╗██╔╝ ██╗
 ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Anasazx&color=blueviolet&style=flat-square&label=VISITORS)
-![GitHub followers](https://img.shields.io/github/followers/Anasazx?style=flat-square&color=blueviolet)
-
 </div>
 
 ---
@@ -39,15 +34,8 @@
     a random guy who still requires adult supervision
 
 ┌─[Anasazx@github]─[~]
-└──╼ $ cat .env
-    <!-- API_KEY=trust_me_bro -->
-
-┌─[Anasazx@github]─[~]
 └──╼ $ git commit -m "fix"
     > fixes nothing, adds 3 new bugs
-
-┌─[Anasazx@github]─[~]
-└──╼ $ _
 ```
 
 <div align="center">
