@@ -28,16 +28,6 @@
 
 ---
 
-```bash
-┌─[Anasazx@github]─[~]
-└──╼ $ whoami
-    a random guy who still requires adult supervision
-
-┌─[Anasazx@github]─[~]
-└──╼ $ git commit -m "fix"
-    > fixes nothing, adds 3 new bugs
-```
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anasazx)
