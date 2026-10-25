@@ -1,41 +1,37 @@
 <div align="center">
 
-<img src="./assets/minecraft-text.svg" width="500">
-</div>
 
----
+<!-- <img src="./assets/minecraft-text.svg" width="500" alt="Anasazx joined the game">
 
-<div align="center">
+<br><br> -->
 
+<img src="./assets/chat.svg" alt="Chat log: Hey, I'm Anas, a full-stack developer. Backend: Java + Spring Boot, frontend: Angular. Currently building timetable-ai, which turns photos of schedules into real timetables using local LLMs. Open to collabs, DM me on X.">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br><br>
 
+<img src="./assets/hotbar.svg" alt="Hotbar: Java, Spring Boot, Angular, TypeScript, PostgreSQL, Docker, Node.js, Git, Linux">
 
-</div>
+<br><br>
 
+<a href="https://github.com/Anasazx/timetable-ai"><img src="./assets/toast-timetable-ai.svg" width="400" alt="Challenge Complete! Timetable AI"></a>
+<a href="https://github.com/Anasazx/ReviewHood"><img src="./assets/toast-reviewhood.svg" width="400" alt="Advancement Made! ReviewHood"></a>
+<a href="https://github.com/Anasazx/orphan_care_management_system"><img src="./assets/toast-orphan-care.svg" width="400" alt="Advancement Made! Orphan Care System"></a>
+<a href="https://github.com/Anasazx/bus-ticket-booking"><img src="./assets/toast-bus-tickets.svg" width="400" alt="Advancement Made! Bus Ticket Booking"></a>
 
 
+<!--
+<br><br>
 
+<img src="./assets/bee.gif" width="150" alt="Minecraft bee">
 
-<div align="center">
-    <img src="./assets/minecraft-minecraft-bee.gif" width="150">
-</div>
+<br><br>
+-->
 
-<br>
-
-
----
-
-<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anasazx)
-[![Projects](https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Anasazx?tab=repositories)
-[![Contact](https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=maildotru&logoColor=white)](https://x.com/RiadhAnas)
+[![Projects](https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anasazx?tab=repositories)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RiadhAnas)
 
 </div>
+
+<!-- The SVGs in assets/ are generated: edit scripts/generate.py and run `python3 scripts/generate.py` -->
