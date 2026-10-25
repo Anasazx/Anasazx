@@ -7,11 +7,11 @@
 
 <img src="./assets/chat.svg" alt="Chat log: Hey, I'm Anas, a full-stack developer. Backend: Java + Spring Boot, frontend: Angular. Currently building timetable-ai, which turns photos of schedules into real timetables using local LLMs. Open to collabs, DM me on X.">
 
-<br>
+<br><br>
 
 <img src="./assets/hotbar.svg" alt="Hotbar: Java, Spring Boot, Angular, TypeScript, PostgreSQL, Docker, Node.js, Git, Linux">
 
-<br>
+<br><br>
 
 <a href="https://github.com/Anasazx/timetable-ai"><img src="./assets/toast-timetable-ai.svg" width="400" alt="Challenge Complete! Timetable AI"></a>
 <a href="https://github.com/Anasazx/ReviewHood"><img src="./assets/toast-reviewhood.svg" width="400" alt="Advancement Made! ReviewHood"></a>
